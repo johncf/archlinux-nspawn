@@ -1,0 +1,4 @@
+"\ej": backward-char
+"\eh": history-search-backward
+"\ek": history-search-forward
+"\el": forward-char
