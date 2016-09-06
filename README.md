@@ -37,10 +37,11 @@ Enjoy!
 - It was originally borrowed (stolen) from the [docker repo][]
 - It downloads and installs [aura-bin][] from AUR
 - It fetches and populates my [dotfiles][] on `$USER`'s home directory
+- Defaults: `USER=nope`, `HOSTNAME=qontain`, `TIMEZONE=Asia/Kolkata`
 - There are more "personalizations", so verify before use
 
 [systemd-nspawn]: https://wiki.archlinux.org/index.php/Systemd-nspawn
 [systemd-networkd]: https://wiki.archlinux.org/index.php/Systemd-networkd
-[dotfiles]: https://github.com/critiqjo/devenv
+[dotfiles]: https://github.com/teenyhop/devenv
 [aura-bin]: https://aur.archlinux.org/packages/aura-bin/
 [docker repo]: https://github.com/docker/docker/blob/master/contrib/mkimage-arch.sh
